@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" rx="24" fill="#ea580c"/>
+  <circle cx="60" cy="60" r="38" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <path d="M22 60h76M60 22v76M32 34c14 14 14 38 0 52M88 34c-14 14-14 38 0 52" fill="none" stroke="#ffffff" stroke-width="5"/>
+  <text x="60" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2937">HT</text>
+</svg>
